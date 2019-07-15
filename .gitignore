@@ -1,0 +1,9 @@
+node_modules
+*/public/**/*
+tests/
+**/*.log
+.DS_Store
+.nyc_output
+\.vscode/
+.env*
+builds
